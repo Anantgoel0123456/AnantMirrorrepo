@@ -1,5 +1,7 @@
 [![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)](https://youtu.be/Pk_TthHfLeE)
 
+Click on the below button 👇👇👇👇
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 # Slam Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/Slam-Team/slam-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/Slam-Team/slam-mirrorbot?color=green&style=flat)

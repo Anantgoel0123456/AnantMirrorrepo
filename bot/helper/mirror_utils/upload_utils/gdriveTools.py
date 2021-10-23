@@ -643,9 +643,9 @@ class GoogleDriveHelper:
 
             for content in self.telegraph_content :
                 self.path.append(Telegraph(access_token=telegraph_token).create_page(
-                                                        title = 'Arnavs Mirrorbot Search',
-                                                        author_name='Arnav Puranik',
-                                                        author_url='https://t.me/arnavpuranik',
+                                                        title = 'Anant Mirrorbot Search',
+                                                        author_name='Anant Goel'. 
+                                                        author_url='https://t.me/Anant_Goel',
                                                         html_content=content
                                                         )['path'])
 

@@ -118,7 +118,7 @@ class GoogleDriveHelper:
                                      resumable=False)
         file_metadata = {
             'name': file_name,
-            'description': 'Uploaded using Arnavs Mirror Bot',
+            'description': 'Uploaded using Anant Mirror Bot',
             'mimeType': mime_type,
         }
         if parent_id is not None:
@@ -172,7 +172,7 @@ class GoogleDriveHelper:
         # File body description
         file_metadata = {
             'name': file_name,
-            'description': 'Uploaded by Arnavs Mirror Bot',
+            'description': 'Uploaded by Anant Mirror Bot',
             'mimeType': mime_type,
         }
         try:
